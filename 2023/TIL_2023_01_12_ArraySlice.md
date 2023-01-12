@@ -90,5 +90,5 @@
     메모리 성능을 위해 이런것까지 고려해본다는게 재밌고 더 많이 Swift에 대해 알아가는것 같네요🕺🏻
 
     #### [참고 자료]
-
+    https://green1229.tistory.com/321   
     https://developer.apple.com/documentation/swift/arrayslice
