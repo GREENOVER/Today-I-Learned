@@ -1,6 +1,6 @@
 ## TIL (Today I Learned)
 
-### 3월 12일 (수)    
-### Xcode rsync.samba deny file-write-create 오류 분석기
+### 3월 15일 (토)    
+### iOS에서 서버 과부하 감지 및 API 호출 최적화
 해당 동일 블로그 포스팅으로 대체합니다!
-https://green1229.tistory.com/555   
+https://green1229.tistory.com/556   
